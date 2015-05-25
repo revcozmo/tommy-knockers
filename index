@@ -3,5 +3,14 @@
           <head>
           </head>
           <body>
+               <h1>Tk521 Inventory Control System</h1>
+               <p>Please choose an action.</p>
+                   <!-- //input var action
+                         //choices are receive, ship, spot check, or yearly inventory
+                              //receive will allow user to document the model number of each incoming item, assign new or pull existing sku numbers for each item, and place each item into a warehouse location (will alert the user of existing warehouse locations)
+                              //ship will guide user to warehouse location for each sku number of an order form. It also removes each item from current inventory as it is marked as shipped
+                              //spot check allows the user to check the location and availability of any sku or model number
+                              //yearly invrntory is a set event that directs the user to take and record an immediate count of every warehouse location. The app then compares immediste count with records to find differences, which are sent as an alert to inv ctrl email...
+                              //this system also logs every modification, and, tracks each registered user and reports tose tracks to the appropriate manager, each of which has special manager clearance. -->
           </body>
      </html>
