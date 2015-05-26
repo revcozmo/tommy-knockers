@@ -6,8 +6,20 @@
                <h1>Tk521 Inventory Control System</h1>
                <p>Please choose an action.</p>
 <button type = "button">Receiving</button>
+      <!-- onClick prompt, input model number -->
+           <!-- if model number matches one in stock, print we have ___ of those in stock. There are ____ in loc _____, _____ in loc _____, that is all. Then, ask user where he/she wants to put the new item. -->
+           <!-- else ask user to provide descript, assign a sku, and assign a primary warehouse loc -->
+           <!-- that's it, simple... -->
+
 <button type = "button">Shipping</button>
+      <!-- onClick prompt, input model number -->
+           <!-- if model number matches one in stock, print we have _____ of those in loc _____, _____ in loc _____, that's all. Then prompt user for chosen pull loc -->
+           <!-- else ask user to input model number again -->
+
 <button type = "button">Spot Check</button>
+      <!-- onClick prompt, input model number -->
+           <!-- if model number matches one in stock, print we have _____ of those in loc _____, _____ in loc _____, that's all. Then, a new spot check button loops back to this section. And, a menu button loops back to the beginning. -->
+
 <button type = "button">Yearly Inventory</button>
 
                    <!-- //input var action
