@@ -21,6 +21,7 @@
            <!-- if model number matches one in stock, print we have _____ of those in loc _____, _____ in loc _____, that's all. Then, a new spot check button loops back to this section. And, a menu button loops back to the beginning. -->
 
 <button type = "button">Yearly Inventory</button>
+      <!-- this one will be the most difficult. So, this function will remain undeveloped until the rest of the app is up and running -->
 
                    <!-- //input var action
                          //choices are receive, ship, spot check, or yearly inventory
