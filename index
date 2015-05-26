@@ -5,6 +5,11 @@
           <body>
                <h1>Tk521 Inventory Control System</h1>
                <p>Please choose an action.</p>
+<button type = "button">Receiving</button>
+<button type = "button">Shipping</button>
+<button type = "button">Spot Check</button>
+<button type = "button">Yearly Inventory</button>
+
                    <!-- //input var action
                          //choices are receive, ship, spot check, or yearly inventory
                               //receive will allow user to document the model number of each incoming item, assign new or pull existing sku numbers for each item, and place each item into a warehouse location (will alert the user of existing warehouse locations)
