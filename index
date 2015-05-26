@@ -1,6 +1,10 @@
 <!DOCTYPE html>
      <html> 
           <head>
+<script>
+     var modNum = ["m0123", "m0122", "s1145"]
+     var skidNum <!-- skid stand for stock keeping id number --> = 
+</script>
           </head>
           <body>
                <h1>Tk521 Inventory Control System</h1>
