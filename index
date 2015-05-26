@@ -3,7 +3,9 @@
           <head>
 <script>
      var modNum = ["m0123", "m0122", "s1145"]
-     var skidNum <!-- skid stand for stock keeping id number --> = 
+     var skidNum <!-- skid stand for stock keeping id number --> = [<!-- skid is represented by month, month/day, day/ year, year, year, year/ 0000 -->
+     var whseLoc = [a1a, a1b, a2a, a2b, a3a, a3b]
+
 </script>
           </head>
           <body>
